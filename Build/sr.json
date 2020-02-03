@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Neon Rush",
-"productVersion": "0.3",
+"productVersion": "0.4",
 "dataUrl": "sr.data.unityweb",
 "wasmCodeUrl": "sr.wasm.code.unityweb",
 "wasmFrameworkUrl": "sr.wasm.framework.unityweb",
