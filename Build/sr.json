@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
-"productName": "SpaceRepair",
-"productVersion": "0.2",
+"productName": "Neon Rush",
+"productVersion": "0.3",
 "dataUrl": "sr.data.unityweb",
 "wasmCodeUrl": "sr.wasm.code.unityweb",
 "wasmFrameworkUrl": "sr.wasm.framework.unityweb",
